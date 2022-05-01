@@ -1,0 +1,70 @@
+1. Introdução
+
+- Conhecendo o CSS
+- Projeto de Portfólio
+- Propriedades, Tags e Seletores
+- FlexBox e Grid
+- Hover e Animações
+- Responsividade
+
+2. O que é CSS e importância
+
+Não é uma liguangem de programação
+
+CSS - Cascading Style Sheets
+Folha de estilo em cascatas
+
+Maneira de inserir estilo em código de HTML
+
+ex.
+
+p {
+ color: red;
+}
+
+3. Responsividade
+
+Design responsivo é importante para trabalhar em qualquer
+dispositivo.
+
+Com um design responsivo, o layout muda atraves do css.
+
+ - Mantenha seu código limpo
+ - Evite estilos inlines
+ - Use grids flexiveis
+ - Evite estilos absolutos
+ - Use medi querys
+
+4. Mobile first
+
+Layout Resposive - Pensa primeiro no desktop e vai escalando nas telas menores
+
+Mobile First - Pensa primeiro no mobile primeiro e vai escalando nas telas maiores
+
+Mobile First
+
+Vantagens
+ - Otimização
+ - Melhor experiência de usuário mobile
+ - Melhor ranqueamento no Google
+
+Desvantagens
+ - Não é apropriado para sites com muita informação
+ - Experiência no desktop pode não ser tão boa
+
+Layout Responsive
+
+Vantagens
+ - Mais adequado para sites com muito conteúdo
+ - Empresas e apresentações
+ - Prencher formulários
+
+Desvantagens
+ - Ranqueamento no Google
+ - Exeperiência no mobile pode não ser tão boa
+
+5. Tipos de Estilo
+
+
+
+

@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@200;300;400;500;600;700&display=swap');
+
+body{
+    background: linear-gradient(236.85deg,
+     #375B86 27.26%,
+     #6B87A9 96.03%);
+     font-family: 'Readex Pro', sans-serif;
+}
+
+.container{
+    background: #333439;
+    color: #F7F7F7;
+    margin: 50px;
+    border-radius: 20px;
+    box-shadow: 6px 6px 6px #0E1D2F;
+    padding: 40px;
+}
+
+.perfil{
+    display: flex;
+    flex-direction: column;
+    background: #FAFAFA;
+   /* background: linear-gradient(236.85deg, 
+      #FAFAFA 30%, 
+      #708090 95%);*/
+    margin-left: 300px;
+    padding: 20px;
+    box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
+    border-radius: 20px;
+    color: #1C1C1C;
+}
+
+.titulo h1{
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+  }
+  
+.titulo h3{
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+ }
+
+.objetivos h4{
+    background-color: #adbcca;
+    font-weight: 400;
+    font-size: 26px;
+    border-radius: 10px;
+    padding: 3px 15px;
+}
+
+.objetivos p{
+    margin-left: 35px;
+}
+
+.experiencia h4{
+    background-color: #adbcca;
+    font-weight: 400;
+    font-size: 26px;
+    border-radius: 10px;
+    padding: 3px 15px;
+}
+
+.periodo{
+    margin-left: 35px;
+    font-weight: 700;
+}
+
+.empresa{
+    margin-left: 50px;
+    font-weight: 700;
+}
+
+.cargo{
+    margin-left: 180px;
+    font-weight: 400;
+}
+
+.atividades {
+    margin-left:  180px;
+}
+
+.formacao h4{
+    background-color: #adbcca;
+    font-weight: 400;
+    font-size: 26px;
+    border-radius: 10px;
+    padding: 3px 15px;
+}
+
+.exp{
+  display: flex;
+}
+
+
+.periodo-unico{
+  margin-left: 85px;
+  font-weight: 700;
+}
+
+
+.cursos h4{
+    background-color: #adbcca;
+    font-weight: 400;
+    font-size: 26px;
+    border-radius: 10px;
+    padding: 3px 15px;
+}
+
+.perfil-foto{
+    box-shadow: 0px 4px 4px rgba(255, 253, 253, 0.61);
+    border-radius: 150px;
+    max-height: 250px;
+    margin-left: 5px;
+    position: absolute;
+    top: 105px;
+}
+
+.home {
+    position: absolute;
+    top: 80px;
+    color:#F7F7F7;
+    text-decoration: none;
+}
+
+.zapzap{
+    position: absolute;
+    top: 400px;
+}
+
+.gmail{
+    position: absolute;
+    top: 400px;
+    left: 224px;
+}
+
+.linkedin{
+    position: absolute;
+    top: 435px;
+}
+
+.github{
+    position: absolute;
+    top: 435px;
+    left: 215px;
+}

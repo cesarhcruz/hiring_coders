@@ -1,0 +1,119 @@
+Links Úteis:
+https://developer.mozilla.org/pt-BR/docs/Web/HTML
+
+HTML
+1. Ferramentas e Estrutura
+
+Linguagem de Formatação e Estruturação
+
+Ferramentas de Pesquisa:
+w3schools.com
+
+Ferramenta de Desenvolvimento
+Editor de Código: 
+Visual Studio Code(VsCode)
+Sublime Text
+Notepad++
+
+HTML se refere a estrutura.
+CSS se refere a estilização.
+
+2. Tags
+Tudo estara entre tags
+
+<html></html> - Tag principal
+
+<head></head> - Cabeçalho
+	Informações que descrevem o documento
+nem tudo que está aqui é mostrado ao usuário
+
+<title></title> - Titulo da Página
+
+<body></body> - Corpo
+	Área do browser onde é mostrado o conteúdo
+
+Letra Serifadas - ideal para meio impresso
+
+<h1></h1> - Titulos(1 a 6)
+<hr/> - Coloca um linha
+<br/> - quebra de linha
+<p></p> - paragrafo
+
+loren ipsum generator
+
+3. Listas e Tabelas
+
+Lista
+
+<ol></ol> - Listas ordenadas
+<ul></ul> - Listas não ordenadas
+<li></li> - Itens
+
+o HTML é uma estrutura hierarquica
+
+Tabela
+
+<table></table> - Tabela
+<tr></tr> - row
+<th></th> - Cabeçalho
+<td></td> - Dados
+
+Ex.
+<table border="1" width=100%>
+   <tr>
+      <th>Item</th>
+      <th>Quantidade</th>
+   </tr>
+   <tr>
+      <td>Arroz</td>
+      <td>5kg</td>
+   </tr>
+   <tr>
+      <td>Feijão</td>
+      <td>2kg</td>
+   </tr>
+</table>
+
+<img>
+   src - atributo da tag img para para endereço da imagem
+   alt - atributo da tag img para descrição da imagem
+
+4. Divisões 1
+
+Criar um página de uma lojinha.
+
+ninjamock.com - Criar Templates
+
+<div></div> - Divisões
+ id -
+ class - 
+
+Para TAG não use acentos
+
+<a></a> - aconragem
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+	
+
