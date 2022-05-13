@@ -1,0 +1,16 @@
+1. Algoritmos
+
+E -> P -> S
+
+E - Entrada
+P - Processamento
+S - Saída
+
+2. Variáveis e Operações
+
+Váriavel - O conteudo pode variar
+
+Qualificar
+ - Inteiros
+ - Real
+ - Cadeias(String)
