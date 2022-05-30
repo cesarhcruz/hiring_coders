@@ -1,0 +1,39 @@
+Typescript
+
+Exemplo bem curto e fácil:
+
+javascritpt
+function soma(a,b){
+ return a + b;
+}
+
+console.log(soma(1,1) // 2
+console.log(soma('1','1')) // 11
+
+em Typescript gera erro.
+
+Tipos Básicos
+
+- String
+- Number
+- Boolean
+- Array - Ex. let jogos: string[]
+- Tupla - Uma array que se define o tamanho max.
+	Ex. const games: [string, string]
+- Enum - ex. enum Cores{}
+- Any
+- Unknow
+
+
+Void e Never
+
+type alias
+
+se colocar um ? no final da variavel ela se torna opcional
+
+
+- public - acessivel de forma geral, dentro e fora da classe
+
+- private - é acessivel apenas dentro da clase onde o campo foi criado
+
+- protected - é acessivel apenas dentro da classe(e subclasse) onde o campo foi criado
